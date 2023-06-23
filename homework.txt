@@ -1,11 +1,11 @@
 homework:
-1. add your 2 rest applications into this project
-2. use config service to load configuration
-3. in search service
-        use CompletableFuture + restTemplate => fetch student info from student service + fetch 3rd party api from demo service
-4. configure Hystrix (circuit) in one service
-5. configure swagger documentation in search service
-6. configure student service in gateway
+-finished- 1. add your 2 rest applications into this project
+-finished- 2. use config service to load configuration
+-finished- 3. in search service
+        use CompletableFuture + restTemplate(service name) + ribbon => fetch student info from student service + fetch 3rd party api from demo service
+-finished- 4. configure Hystrix (circuit) in one service
+-finished- 5. configure swagger documentation in search service
+-finished- 6. configure student service in gateway
 
 
 
